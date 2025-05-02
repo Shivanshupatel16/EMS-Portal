@@ -1,0 +1,5 @@
+PORT="your port"
+MONGO_URL="your mongodb url"
+JWT_KEY="your jwt key"
+EMAIL_USER="your email"
+EMAIL_PASS="your email pass"
