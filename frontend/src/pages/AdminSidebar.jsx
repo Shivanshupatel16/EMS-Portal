@@ -72,7 +72,7 @@ const AdminSidebar = () => {
           <span>Salary</span>
         </NavLink>
 
-        <NavLink 
+        {/* <NavLink 
           to="/Setting"
           className={({ isActive }) =>
             `flex space-x-4 items-center py-2.5 px-8 text-lg rounded-md transition duration-300 ${
@@ -82,7 +82,7 @@ const AdminSidebar = () => {
         >
           <FaCogs />
           <span>Setting</span>
-        </NavLink>
+        </NavLink> */}
       </div>
     </div>
   );
